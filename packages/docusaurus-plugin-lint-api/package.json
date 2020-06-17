@@ -1,0 +1,10 @@
+{
+  "name": "docusaurus-plugin-lint-api",
+  "version": "1.0.0",
+  "description": "A linter for api docs",
+  "main": "src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "markdownlint": "^0.20.3"
+  }
+}
